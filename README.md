@@ -35,14 +35,14 @@ https://googlecoursera.qwiklabs.com/focuses/52114
     e. nano ~/supplier_image_upload.py
     f. sudo chmod +x ~/supplier_image_upload.py
     g. ./supplier_image_upload.py
-4. Upload the descriptions - 13/10/2021
+4. Upload the descriptions - 13/10/2021 - DOne
     a. run.py
     b. supplier-data/descriptions
     c. http://[linux-instance-external-IP]/fruits 
-5. Generate PDF report and send the report through email - 14/10/2021
+5. Generate PDF report and send the report through email - 14/10/2021 - DONE
     a. reports.py
     b. report_email.py
     c. call the main method which will process the data and call the generate_report method from the reports module
-6. Health check - health_check.py - 15/10/2021
+6. Health check - health_check.py - 15/10/2021 - DONE
     a. sudo apt install stress
     b. crontab -e
